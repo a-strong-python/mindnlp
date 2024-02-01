@@ -14,7 +14,7 @@
 
 from typing import TYPE_CHECKING
 
-from ....utils import (
+from mindnlp.utils import (
     OptionalDependencyNotAvailable,
     _LazyModule,
     is_mindspore_available,
